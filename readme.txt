@@ -1,1 +1,1 @@
-git first 
+git first public IStorageLocker Locker { get; set; }
